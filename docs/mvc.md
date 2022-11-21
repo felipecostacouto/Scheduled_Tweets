@@ -16,7 +16,7 @@ I see you requested "/about", we'll give that to the aboutController to handle
 Database wrapper
 
 User
-* query for recors
+* query for records
 * wrap individual records
 
 
